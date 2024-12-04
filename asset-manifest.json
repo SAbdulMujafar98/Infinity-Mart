@@ -1,15 +1,15 @@
 {
   "files": {
     "main.css": "/Infinity-Mart/static/css/main.ee1b3f70.css",
-    "main.js": "/Infinity-Mart/static/js/main.c6f0c293.js",
+    "main.js": "/Infinity-Mart/static/js/main.af49d5cd.js",
     "static/js/453.3521052d.chunk.js": "/Infinity-Mart/static/js/453.3521052d.chunk.js",
     "index.html": "/Infinity-Mart/index.html",
     "main.ee1b3f70.css.map": "/Infinity-Mart/static/css/main.ee1b3f70.css.map",
-    "main.c6f0c293.js.map": "/Infinity-Mart/static/js/main.c6f0c293.js.map",
+    "main.af49d5cd.js.map": "/Infinity-Mart/static/js/main.af49d5cd.js.map",
     "453.3521052d.chunk.js.map": "/Infinity-Mart/static/js/453.3521052d.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.ee1b3f70.css",
-    "static/js/main.c6f0c293.js"
+    "static/js/main.af49d5cd.js"
   ]
 }
